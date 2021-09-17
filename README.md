@@ -19,4 +19,5 @@ Much thanks to all who made screenshots of Iris Creations!
 4. Set the mode to "stretch", it appears to give the best results
 4a. Feel free to try other modes!
 5. Set the refresh time to anything. I personally use 5 minutes.
-6. Enjoy over 50 screenshots every time you see your desktop!
+6. Enjoy over 80 (and counting) screenshots every time you see your desktop!
+6a. Upload your screenshots by making a PR or uploading them to [Here](https://discord.gg/Volmit)
