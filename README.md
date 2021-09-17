@@ -19,8 +19,7 @@ Much thanks to all who made screenshots of Iris Creations!
 1. Clone this repository anywhere on your PC
 2. Right-click your desktop and select "personalize"
 3. Select the cloned folder under the Backgrounds section
-4. Set the mode to "stretch", it appears to give the best results
-* Feel free to try other modes!*
+4. Set the mode to "stretch", it appears to give the best results *Feel free to try other modes!*
 5. Set the refresh time to anything. I personally use 5 minutes.
 6. Enjoy over 80 (and counting) screenshots every time you see your desktop!
 
