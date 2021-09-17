@@ -10,7 +10,8 @@
 - NipNacks *from Discord*
 - [StrangeOne](https://github.com/StrangeOne101)
 - [CocoTheOwner](https://github.com/CocoTheOwner)
-And others I didn't write down (sorry)
+
+*And others I didn't write down (sorry)*
 
 Much thanks to all who made screenshots of Iris Creations!
 
