@@ -10,6 +10,8 @@
 - NipNacks *from Discord*
 - [StrangeOne](https://github.com/StrangeOne101)
 - [CocoTheOwner](https://github.com/CocoTheOwner)
+- [FlakeZ]()
+- [musikant]()
 
 *And others I didn't write down (sorry)*
 
