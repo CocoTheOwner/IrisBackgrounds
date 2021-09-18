@@ -11,7 +11,7 @@
 - [StrangeOne](https://github.com/StrangeOne101)
 - [CocoTheOwner](https://github.com/CocoTheOwner)
 - [FlakeZ](https://github.com/SFlakeZ)
-- [musikant]()
+- [musikant](https://GHsorryiwon12345)
 
 *And others I didn't write down (sorry)*
 
