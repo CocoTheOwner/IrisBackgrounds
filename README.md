@@ -7,11 +7,12 @@
 - [RaydenKoning](https://github.com/RaydenKonig/)
 - [NextdoorPsycho](https://github.com/nextdoorpsycho)
 - [K530](https://github.com/K530-hub)
-- NipNacks *from Discord*
 - [StrangeOne](https://github.com/StrangeOne101)
 - [CocoTheOwner](https://github.com/CocoTheOwner)
 - [FlakeZ](https://github.com/SFlakeZ)
 - [musikant](https://GHsorryiwon12345)
+- NipNacks *from Discord*
+- XInfiniterX *from Discord*
 
 *And others I didn't write down (sorry)*
 
