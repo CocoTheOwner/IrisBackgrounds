@@ -11,7 +11,7 @@
 - [CocoTheOwner](https://github.com/CocoTheOwner)
 - [FlakeZ](https://github.com/SFlakeZ)
 - [musikant](https://GHsorryiwon12345)
-- NipNacks *from Discord*
+- [NipNacks](https://github.com/NipNacks)
 - XInfiniterX *from Discord*
 
 *And others I didn't write down (sorry)*
