@@ -12,6 +12,7 @@
 - [FlakeZ](https://github.com/SFlakeZ)
 - [musikant](https://GHsorryiwon12345)
 - [NipNacks](https://github.com/NipNacks)
+- LieutenanT_T *from Discord*
 - XInfiniterX *from Discord*
 
 *And others I didn't write down (sorry)*
