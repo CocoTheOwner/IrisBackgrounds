@@ -12,14 +12,15 @@
 - [FlakeZ](https://github.com/SFlakeZ)
 - [musikant](https://GHsorryiwon12345)
 - [NipNacks](https://github.com/NipNacks)
-- LieutenanT_T *from Discord*
-- XInfiniterX *from Discord*
+- 이팩터 *from [Discord](discord.gg/volmit)*
+- LieutenanT_T *from [Discord](discord.gg/volmit)*
+- XInfiniterX *from [Discord](discord.gg/volmit)*
 
 *And others I didn't write down (sorry)*
 
-Much thanks to all who made screenshots of Iris Creations!
+Thanks to all who made screenshots of Iris Creations!
 
-## Installation
+## Installation (recommeded)
 1. Clone this repository anywhere on your PC
 2. Right-click your desktop and select "personalize"
 3. Select the cloned folder under the Backgrounds section
@@ -28,4 +29,4 @@ Much thanks to all who made screenshots of Iris Creations!
 6. Enjoy over 80 (and counting) screenshots every time you see your desktop!
 
 ## Uploading
-Upload your screenshots by making a PR or uploading them to [Here](https://discord.gg/Volmit)
+Upload your screenshots by making a PR or uploading them to [Here](https://discord.gg/Volmit) (after which I have to find & select them)
