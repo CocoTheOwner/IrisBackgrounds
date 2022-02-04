@@ -12,6 +12,7 @@
 - [FlakeZ](https://github.com/SFlakeZ)
 - [musikant](https://GHsorryiwon12345)
 - [NipNacks](https://github.com/NipNacks)
+- [0TickPulse](https://github.com/0tickpulse)
 - 이팩터 *from [Discord](discord.gg/volmit)*
 - LieutenanT_T *from [Discord](discord.gg/volmit)*
 - XInfiniterX *from [Discord](discord.gg/volmit)*
