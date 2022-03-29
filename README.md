@@ -2,8 +2,6 @@
 ![Image](2020-01-12_22.46.18.png)
 ![Image](2020-01-13_02.01.45.png)
 ![Image](2020-11-29_00.03.57.png)
-![index](https://user-images.githubusercontent.com/65736624/160622800-8f67739b-0dd7-463f-b83f-534816b905c7.jpg)
-
 
 ## Credits
 - [RaydenKoning](https://github.com/RaydenKonig/)
